@@ -11,6 +11,11 @@ body{
     color: white;
 }
 
+.link{
+    color:white;
+    text-decoration: none;
+}
+
 .nav-section{
     /* border: 2px solid red; */
     display: flex;
